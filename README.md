@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Sajjad
 
-<!--
-**maleki-dev/maleki-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern, performant front-end applications using tools like React, TypeScript, and Next.js. I'm focused on writing clean code, designing scalable UI systems, and staying current with front-end technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Build front-end architectures with performance and scalability in mind
+* Explore new tools in the React and JavaScript ecosystem
+* Dive into component design, state management, and UI optimization
+
+---
+
+## 🧪 Featured Project: [`react-foam`](https://github.com/pars-stack/react-foam)
+
+> 🫧 **Extremely lightweight, performant, and intuitive React state management library**
+
+`react-foam` is a state management solution for React focused on speed and simplicity.
+It offers a clean alternative to more complex libraries without sacrificing performance or usability.
+
+**Highlights:**
+
+* ⚡️ Minimal footprint
+* 🧠 Easy to use
+* 🚀 Optimized for performance
+
+👉 [github.com/pars-stack/react-foam](https://github.com/pars-stack/react-foam)
+
+---
+
+## 📫 Connect
+
+Check out my work and feel free to reach out if you’re working on something interesting in front-end development.
