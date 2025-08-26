@@ -9,10 +9,6 @@ I build modern, performant front-end applications using tools like React, TypeSc
 * Dive into component design, state management, and UI optimization
 
 ---
-## 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=maleki-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=maleki-dev&theme=dark&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=maleki-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 
 ## 🧪 Featured Project: [`react-foam`](https://github.com/pars-stack/react-foam)
 
@@ -30,6 +26,11 @@ It offers a clean alternative to more complex libraries without sacrificing perf
 👉 [github.com/pars-stack/react-foam](https://github.com/pars-stack/react-foam)
 
 ---
+
+## 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api?username=maleki-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maleki-dev&theme=transparent)](https://git.io/streak-stats)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=maleki-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 
 ## 📫 Connect
 
